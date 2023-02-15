@@ -1,0 +1,133 @@
+
+
+
+
+
+.cabecera{
+background-color: #30302e;
+display:block;
+
+}
+h1.cabecera{
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+h3.cabecera{
+    text-align: center;
+    color: whitesmoke;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+.horizontal_center {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.user_photo {
+    position: relative;
+    background: whitesmoke;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border: 1px solid rgba(0,0,0,.25);
+
+}
+
+.container{
+    display: block;
+   
+    border-color: #30302e;
+    margin-top: 10px;
+}
+h3.info{
+    font-family: 'Poppins', sans-serif;
+    color: #30302e;
+    text-align: center;
+}
+.info{
+    display: block;
+    width: 50%;
+    float:left;
+    margin-left: 1%;
+margin-bottom: 40px;
+}
+.maps{
+    display: inline-block;
+    position: relative;
+    border-color: #30302e;
+    margin-left: 2%;
+    margin-top: 10px;
+    margin-bottom: 310px;
+    
+
+  
+}
+#datos{
+    margin: 0;
+    
+    text-decoration-color: coral;
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+    
+
+}
+.acrnBC1{
+    background-color: rgb(251, 245, 194);
+    font-family: 'Poppins', sans-serif;
+}
+
+.acrnBC2{
+    background-color: rgb(202, 237, 246);
+    font-family: 'Poppins', sans-serif;
+}
+.acrnBC3{
+    background-color: rgb(239, 205, 161);
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.formulario{
+    width: 50%;
+    margin: auto;
+    background-color:rgb(230, 230, 230);
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer{
+    width: auto;
+    height: 150px;
+    background-color: black;
+    font-family:'Poppins', sans-serif;
+    margin-top: 30px;
+    
+}
+.footer .col{
+    border: 2px solid;
+    border-color: beige;
+}
+.footer p{
+    color: beige;
+    text-align: center;
+}
+
+
+
+#datos span{
+    font-family:'Poppins', sans-serif;
+    font-size: x-large;
+    width: auto;
+   
+}
+
